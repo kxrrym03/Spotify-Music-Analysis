@@ -29,5 +29,5 @@ This project explores and analyzes the top 1000 Spotify tracks using data-driven
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/spotify-top-1000.git
+   git clone https://github.com/kxrrym03/spotify-top-1000.git
    cd spotify-top-1000
